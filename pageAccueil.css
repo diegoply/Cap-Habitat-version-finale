@@ -3,8 +3,14 @@ header {
 }
 
 .colorMenu{
-    background-color: rgb(211, 233, 238);
+    background-color: #d3e9ee;
     color: black;
+    border-color: #d3e9ee;
   
+}
+
+.sizeMain{
+    background-color: #d3e9ee;
+    height: 100%;
 }
 
