@@ -1,3 +1,10 @@
-body {
+header {
     background-color: white;
 }
+
+.colorMenu{
+    background-color: rgb(211, 233, 238);
+    color: black;
+  
+}
+
