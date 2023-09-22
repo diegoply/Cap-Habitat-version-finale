@@ -22,3 +22,25 @@ header {
 .alignPartenaires{
     align-items: center;
 }
+
+.TitleCenter{
+    margin-top: 10%;
+    
+}
+
+.departementInter{
+    flex-direction: row;
+    justify-content: center;
+}
+
+.imgCard{
+    background-color: #d3e9ee;
+    height: 4rem;
+    text-align: center;
+    font-size:16px;
+
+   
+}
+.textCard{
+    font-size:12px;
+}
