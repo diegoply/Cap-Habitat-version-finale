@@ -33,28 +33,15 @@ header {
     justify-content: center;
 }
 
-.imgCard{
-    background-color: #d3e9ee;
-    height: 4rem;
-    text-align: center;
-    font-size:16px;
 
-   
-}
 .textCard{
     font-size:12px;
 }
 
-.cardSize{
-    
-    width: 12rem;
-
+.sizeCard{
+    height: 45rem;
 }
 
-.cardColor{
-    background-color: #d3e9ee;
-    height: 6rem;
-    
-    text-align:justify;
-
+.sizeEntetecard{
+    height: 12rem;
 }
