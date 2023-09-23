@@ -45,3 +45,24 @@ header {
 .sizeEntetecard{
     height: 12rem;
 }
+
+.sizeEntetecard2{
+    height: 9rem;
+}
+
+.sizeCard2{
+    height: 30rem;
+}
+
+.sizeEntetecard3{
+    height: 5rem;
+}
+
+.sizeCard3{
+    height: 6rem;
+}
+
+.centerText{
+    flex-direction: column;
+    justify-content: center;
+}
