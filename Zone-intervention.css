@@ -3,7 +3,7 @@ header {
 }
 
 .colorMenu{
-    background-color: #d3e9ee;
+    background-colord3e9ee: #;
     color: black;
     border-color: #d3e9ee;
   
@@ -45,3 +45,16 @@ header {
     font-size:12px;
 }
 
+.cardSize{
+    
+    width: 12rem;
+
+}
+
+.cardColor{
+    background-color: #d3e9ee;
+    height: 6rem;
+    
+    text-align:justify;
+
+}
