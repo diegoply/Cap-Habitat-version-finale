@@ -54,4 +54,6 @@ header {
 .sizeCard2{
     height: 10rem;
 }
-
+.imgDisplay{
+    display:none
+}
