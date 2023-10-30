@@ -29,3 +29,7 @@ header {
     
     flex-direction: column;
 }
+
+.imgDisplay{
+    display:none
+}
