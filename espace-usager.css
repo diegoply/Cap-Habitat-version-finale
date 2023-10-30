@@ -23,4 +23,6 @@ header {
 .alignPartenaires{
     align-items: center;
 }
-
+.imgDisplay{
+    display:none
+}
